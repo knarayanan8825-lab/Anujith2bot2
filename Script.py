@@ -6,7 +6,7 @@ Whatever serial and movie 🍿 you want, just ask me and I will send it to you..
 If you have any doubts, please contact the admin. 👉 @Anujith1238 to @Anujith6bot Admin Chat bot to @Arunya18👈 YouTube Channel link 👇
 http://www.youtube.com/@VijayalakshmiK8825
 
-Subscribe please ❤️👆\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/TrexhOwner">Trex</a></blockquote></b>"""
+Subscribe please ❤️👆\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Anujith1238">Anujith</a></blockquote></b>"""
 
     GSTART_TXT = """<b>ʜᴇʏ {}, {}\n\nI am a bot that sends movies and serials.🥰
 
@@ -15,16 +15,16 @@ Whatever serial and movie 🍿 you want, just ask me and I will send it to you..
 If you have any doubts, please contact the admin. 👉 @Anujith1238 to @Anujith6bot Admin Chat bot to @Arunya18👈 YouTube Channel link 👇
 http://www.youtube.com/@VijayalakshmiK8825
 
-Subscribe please ❤️👆\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Trexowner">Trex</a></blockquote></b>"""
+Subscribe please ❤️👆\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Anujith1238">Anujith</a></blockquote></b>"""
     
     HELP_TXT = """» ᴡʜᴇʀᴇ ᴅᴏ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴏᴘᴇɴ ᴛʜᴇ sᴇᴛᴛɪɴɢs ᴍᴇɴᴜ?."""
 
-    ABOUT_TXT = """<blockquote><b>❍ ᴍʏ ɴᴀᴍᴇ : <a href="https://t.me/Anujith1bot">Anujith1bot Bot</a>
-❍ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/Trexowner">Trex</a>
+    ABOUT_TXT = """<blockquote><b>❍ ᴍʏ ɴᴀᴍᴇ : <a href="https://t.me/Anujith1_bot">Anujith1_bot Bot</a>
+❍ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/Anujith1238">Anujith</a>
 ❍ ʟɪʙʀᴀʀʏ : <a href="https://pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ</a>
 ❍ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ</a>
 ❍ ᴅᴀᴛᴀʙᴀꜱᴇ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
-❍ ʜᴏꜱᴛᴇᴅ ᴏɴ : <a href="https://t.me/TrexOwner">ᴠᴘs</a>
+❍ ʜᴏꜱᴛᴇᴅ ᴏɴ : <a href="https://t.me/Anujith1238">ᴠᴘs</a>
 ❍ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ : ᴠ3 [ᴀᴅᴠᴀɴᴄᴇ]</blockquote>
 
 ➻ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ғᴏʀ ɢᴇᴛᴛɪɴɢ ʙᴀsɪᴄ ʜᴇʟᴩ ᴀɴᴅ ɪɴғᴏ ᴀʙᴏᴜᴛ ᴍᴇ.</b>"""
@@ -34,14 +34,14 @@ Subscribe please ❤️👆\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ :
 """
 
     SUPPORT_TXT = """ᴛʜᴇsᴇ ᴀʀᴇ ᴍʏ sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ. ɪғ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ, ʀᴇᴘᴏʀᴛ ᴛᴏ ᴛʜᴇ ᴀᴅᴍɪɴ
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @Trexowner"""
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @Anujith1238"""
         
     HELPS_TXT = """» ᴡʜᴇʀᴇ ᴅᴏ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴏᴘᴇɴ ᴛʜᴇ sᴇᴛᴛɪɴɢs ᴍᴇɴᴜ?."""
     
     CHANNELS = """
 <b>๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ᴛᴏ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴜs.
 
-ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ᴀɴʏ ʙᴜɢ ɪɴ ˹TrexOfficials˼ ᴏʀ ɪғ ʏᴏᴜ ᴡᴀɴɴᴀ ɢɪᴠᴇ ғᴇᴇᴅʙᴀᴄᴋ ᴀʙᴏᴜᴛ ᴛʜᴇ ʙᴏᴛ˼, ᴩʟᴇᴀsᴇ ʀᴇᴩᴏʀᴛ ɪᴛ ᴀᴛ <a href='https://t.me/TrexSupportchatBot'>sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ</a>.</b>"""
+ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ᴀɴʏ ʙᴜɢ ɪɴ ˹TrexOfficials˼ ᴏʀ ɪғ ʏᴏᴜ ᴡᴀɴɴᴀ ɢɪᴠᴇ ғᴇᴇᴅʙᴀᴄᴋ ᴀʙᴏᴜᴛ ᴛʜᴇ ʙᴏᴛ˼, ᴩʟᴇᴀsᴇ ʀᴇᴩᴏʀᴛ ɪᴛ ᴀᴛ <a href='https://t.me/Anujith6bot'>sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ</a>.</b>"""
 
     
     STATUS_TXT = """<b>╭────[ 🗃 ᴅᴀᴛᴀʙᴀsᴇ 1 🗃 ]────⍟</b>
@@ -489,7 +489,7 @@ Send Payment Screenshot 👇
 
     SOURCE_TXT ="""<b>sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ: </b>
 
- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https:/TrexSupportchatBot>Trex</a>\n """
+ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https:/Anujith6Bot>Admin Support</a>\n """
 
     EXTRAF_TXT =""" <b> ʜᴇʀᴇ ɪꜱ ᴍʏ ᴇxᴛʀᴀ ꜰᴇᴀᴛᴜʀᴇꜱ </b>"""
 
