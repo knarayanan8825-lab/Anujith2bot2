@@ -215,7 +215,7 @@ async def auto_post_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     reply_markup = InlineKeyboardMarkup(keyboard)
 
     # അപ്ഡേറ്റ് ചാനലിലേക്ക് അയക്കാനുള്ള ബാനർ ഇമേജ് ലിങ്ക്
-    banner_url = "നിങ്ങളുടെ_ബാനർ_ഇമേജ്_ലിങ്ക്_ഇവിടെ_നൽകുക"
+    banner_url = "https://ibb.co/cS5zrTGD"
 
     try:
         if banner_url:
