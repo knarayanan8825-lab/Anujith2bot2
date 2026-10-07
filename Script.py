@@ -6,7 +6,7 @@ Whatever serial and movie 🍿 you want, just ask me and I will send it to you..
 If you have any doubts, please contact the admin. 👉 @Anujith1238 to @Anujith6bot Admin Chat bot to @Arunya18👈 YouTube Channel link 👇
 http://www.youtube.com/@VijayalakshmiK8825
 
-Subscribe please ❤️👆\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/TrexOwner">Trex</a></blockquote></b>"""
+Subscribe please ❤️👆\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/TrexhOwner">Trex</a></blockquote></b>"""
 
     GSTART_TXT = """<b>ʜᴇʏ {}, {}\n\nI am a bot that sends movies and serials.🥰
 
